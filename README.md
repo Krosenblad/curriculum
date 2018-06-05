@@ -1,2 +1,3 @@
 # curriculum
-CV stuff
+
+[CV stuff](home.html)
