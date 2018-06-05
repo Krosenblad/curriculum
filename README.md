@@ -1,3 +1,1 @@
-# curriculum
-
-[CV stuff](https://github.com/Krosenblad/curriculum)
+[Pages](https://krosenblad.github.io/curriculum/)
