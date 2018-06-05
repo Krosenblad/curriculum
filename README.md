@@ -1,1 +1,1 @@
-[Pages](https://github.com/Krosenblad/curriculum)
+[Pages](https://krosenblad.github.io/curriculum/)
