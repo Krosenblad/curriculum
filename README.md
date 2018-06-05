@@ -1,3 +1,3 @@
 # curriculum
 
-[CV stuff](home.html)
+[CV stuff](https://github.com/Krosenblad/curriculum)
